@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/CricketSports.API/CricketSports.API.csproj" />
+    <Project Path="backend/CricketSports.Application/CricketSports.Application.csproj" />
+    <Project Path="backend/CricketSports.Domain/CricketSports.Domain.csproj" />
+    <Project Path="backend/CricketSports.Infrastructure/CricketSports.Infrastructure.csproj" />
+  </Folder>
+</Solution>

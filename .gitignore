@@ -1,0 +1,7 @@
+**/bin/
+**/obj/
+**/obj-*/
+**/out/
+.vs/
+*.user
+appsettings.Local.json
